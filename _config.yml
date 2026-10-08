@@ -2,6 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+# you could include timezone here for posts to update, and build, if
+# you commit and push while your time is ahead of UTC. For privacy, I'm refraining
+# but when UTC catches up you need to rebuild the website, it won't just appear.
+# timezone: 
 # Name of your site (displayed in the header)
 name: Varied findings.
 

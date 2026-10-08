@@ -77,3 +77,5 @@ I dont know everything about how exactly, but some buzzwords to investigate are 
 ## Conclusion
 
 This was fun to create and to see the results. I need to get into the mindset of understanding what my model is actually predicting, and the mindset of preparing for benchmarking, as thats how you even know if the work you've done has had the effect you've desired.
+
+The code for this experiment can be found at my [GitHub repo](https://github.com/CoderCowMoo/ancient-greek-ngram).
